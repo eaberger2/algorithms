@@ -1,6 +1,6 @@
 ﻿# My-Data-Structures-and-Algorithms
 
-To-Do List:  
+To-Do List:    
 Data Structures   
 Linked Lists   
 Trees   
