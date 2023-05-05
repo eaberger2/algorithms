@@ -1,8 +1,8 @@
 ﻿# Algorithms
- 
-Breadth-First Search [] 
-Depth-First Search []    
-Binary Search []   
-Merge Sort [x]   
-Quick Sort []
-Dijkstra's Shortest Path [x]
+
+- [ ] Breadth-First Search
+- [ ] Depth-First Search
+- [ ] Binary Search
+- [x] Merge Sort
+- [ ] Quick Sort
+- [x] Dijkstra's Shortest Path
